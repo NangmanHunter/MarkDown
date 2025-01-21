@@ -1,0 +1,25 @@
+a태그여러줄
+ㄴCtrl+Alt+Drag
+ㄴa
+ㄴCtrl+Space
+ㄴEnter
+ㄴ→ x2
+ㄴ</a>
+ㄴShift+→
+ㄴCtrl+X
+ㄴend
+ㄴCtrl+V
+ㄴ← x4
+ㄴShift+home
+ㄴ→ x11
+ㄴCtrl+C
+ㄴ← x3
+ㄴCtrl+V
+
+
+a태그여러줄
+ㄴ</a>자름
+ㄴ</a>맨끝붙임
+ㄴ내용복사
+ㄴhref붙임
+

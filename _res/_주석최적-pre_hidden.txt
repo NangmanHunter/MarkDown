@@ -1,0 +1,7 @@
+주석최적
+ㄴ주석->지저분한느낌강함
+ㄴpre->걍깔끔.-가장정갈.
+ㄴ주석<<pre*hidden
+ㄴpre*hidden>>주석
+ㄴpre
+ㄴhidden
