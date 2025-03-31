@@ -4,15 +4,17 @@ body{
 }
 
 
-
-
 .r{ color:crimson; }
 .b{ color:cornflowerblue }
+.g{ color:mediumaquamarine }
+
+
 
 s{
     text-decoration-color: rgba(255, 0, 0, 0.5);
     text-decoration-thickness: 3px;
 }
+.t,
 .sb{ 
     color:cornflowerblue;
 
@@ -20,3 +22,7 @@ s{
     text-decoration-color: rgba(255, 0, 0, 0.5);
     text-decoration-thickness: 3px;
 }
+
+
+u{text-decoration-color: orange;}
+

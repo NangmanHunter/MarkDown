@@ -36,3 +36,128 @@ s
     sddfads
     sddfads
 aas
+
+
+
+
+*Italics*
+**Bold**
+
+
+This is the first
+paragraph.
+
+This is the second
+paragraph.
+
+# 단락바꿈
+1
+
+2
+
+# 줄바꿈
+1\
+2  
+
+1  
+2
+
+
+
+
+# Heading-1
+## Heading-2
+### Heading-3
+#### Heading-4
+##### Heading-5
+###### Heading-6
+
+
+* Apples
+* Oranges
+* Pears
+
+1. First
+2. Second
+3. Third
+
+
+
+## 인용문
+> First line
+> > Nested line
+
+
+
+![alt](cat.png)  
+
+
+
+
+
+Inline `code`
+
+    indent 4 spaces
+
+```
+Or use 3 backticks
+```
+
+
+* Item
+    1. First Subitem
+    2. Second Subitem
+* Item
+    - Subitem
+    - Subitem
+* Item
+
+
+
+
+- ## ㅁ
+  - ㅁ
+- ㅁ
+  -
+  - ㅁ
+
+
+### 줄
+---
+***
+##
+#
+
+
+
+
+
+### 리스트제목
+- ### 1
+- ### 2
+
+
+
+
+<details>
+  <summary>섹션 1</summary>
+  내용 1
+</details>
+
+
+
+
+
+| 섹션 1        |
+|---------------|
+| 내용 1        |
+
+
+
+| 왼쪽 정렬   | 가운데 정렬 | 오른쪽 정렬 |
+|:-----------|:-----------:|------------:|
+| 내용1      | 내용2       | 내용3       |
+| 내용4      | 내용5       | 내용6       |
+
+
+
