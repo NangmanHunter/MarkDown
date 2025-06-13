@@ -1,0 +1,6 @@
+- WhiteSpace
+- Whitespace
+- whitespace
+- Space
+- space
+- 공백
