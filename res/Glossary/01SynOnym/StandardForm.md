@@ -1,0 +1,9 @@
+- StandardForm
+- .md
+- .md-StandardForm
+- .mdStandardForm
+- .md StandardForm
+- Markdown
+- MarkdownStandardForm
+- Markdown StandardForm
+- FormalForm

@@ -1,0 +1,13 @@
+- 헤딩 마크(heading marker)
+- 헤딩마크(heading marker)
+- 헤딩마크
+- heading marker
+- Heading marker
+- Heading Marker
+- HeadingMarker
+- Heading
+- Heading▶️#
+- Heading▶️# ## ###
+- Heading▶️# ## ### #### ##### ###### 
+- 헤딩 기호
+- 헤딩기호

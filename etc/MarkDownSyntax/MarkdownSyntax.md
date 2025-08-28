@@ -297,16 +297,9 @@ a
 |         |
 |:--------:|
 
-## DetailsSummary
-
-<details>
-  <summary>섹션 1</summary>
-  내용 1
-</details>
 
 
-
-
+## Table
 
 | 섹션 1        |
 |---------------|
@@ -342,3 +335,14 @@ LocalFile
 - <file:\\ ... .pdf>
 
 
+
+
+## Tex
+```
+$ ... $
+```
+
+Cener
+```
+$$ ... $$
+```

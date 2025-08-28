@@ -1,0 +1,21 @@
+- Microsoft Docs 스타일의 주석 블록(callout block) 또는 Markdig 기반 렌더러에서 지원되는 주의 박스(Alert Box) 형식
+- 주의 박스(Alert Box) 
+- 주의 박스
+- 주의박스
+- Alert Box
+- AlertBox
+- AlertBox▶️IMPORTANTㆍWARNINGㆍNOTEㆍTIPㆍCAUTION
+- AlertBox▶️CautionㆍImportantㆍNoteㆍTipㆍWarning
+- AlertBox▶️CautionAlertBoxㆍImportantAlertBoxㆍNoteAlertBoxㆍTipAlertBoxㆍWarningAlertBox
+- AlertBox▶️CAUTIONㆍIMPORTANTㆍNOTEㆍTIPㆍWARNING
+- AlertBox▶️ImportantAlertBoxㆍWarningAlertBoxㆍNoteAlertBoxㆍTipAlertBoxㆍCautionAlertBox
+- 5AlertBox
+- 05AlertBox
+- [MS▶️AlertBox](https://learn.microsoft.com/en-us/contribute/content/markdown-reference#alerts-note-tip-important-caution-warning)
+- [MS▶️MarkDown](https://learn.microsoft.com/en-us/contribute/content/markdown-reference)
+- >[!]AlertBox
+- >[!AlertBox]
+- >[]AlertBox
+- []AlertBox
+- >AlertBox
+- !AlertBox

@@ -21,84 +21,96 @@ Space
 
 ## InnerAnchor
 - InnerAnchor
-- InnerHeader
-- Header
+- InnerHeading
+- Heading
 
-InnerHeader
+InnerHeading
 ```md
-[InnerAncor](#innerheader)
-# InnerHeader
+[InnerAncor](#📌innerHeading)
+# InnerHeading
 ```
 ```md
-[InnerAncor](#innerheader)
-## InnerHeader
+[InnerAncor](#📌innerHeading)
+## InnerHeading
 ```
 ```md
-[InnerAncor](#innerheader)
-### InnerHeader
+[InnerAncor](#📌innerHeading)
+### InnerHeading
 ```
 
 ## OuterAnchor
 OuterFile
-```md
-[OuterAnchor](OuterFile.md)
-```
-```md
-[OuterAnchor](../OuterFile.md)
-```
-OuterHeader
-```md
-[OuterAnchor](OuterFile.md#outerheader)
-```
-- OuterHeader
-- OuterFile + OuterHeader
+- ```md
+  [OuterAnchor](📄OuterFile.md)
+  ```
+- ```md
+  [OuterAnchor](../📄OuterFile.md)
+  ```
+- ```md
+  [OuterAnchor](../../📄OuterFile.md)
+  ```
+
+OuterHeading
+- ```md
+  [OuterAnchor](📄OuterFile.md#📌outerHeading)
+  ```
+- ```md
+  [OuterAnchor](../📄OuterFile.md#📌outerHeading)
+  ```
+- ```md
+  [OuterAnchor](../../📄OuterFile.md#📌outerHeading)
+  ```
+
+
+- OuterHeading
+- OuterFile + OuterHeading
 
 
 
-## HeaderAnchor
-- [](# 📌header)▶️# 📌Header 
-- [](# 📌header)▶️## 📌Header 
-- [](# 📌header)▶️### 📌Header 
-- [](# 📌header)▶️#### 📌Header 
-- [](# 📌header)▶️##### 📌Header 
-- [](# 📌header)▶️###### 📌Header 
+## HeadingAnchor
+- [](# 📌Heading)▶️# 📌Heading 
+- [](# 📌Heading)▶️## 📌Heading 
+- [](# 📌Heading)▶️### 📌Heading 
+- [](# 📌Heading)▶️#### 📌Heading 
+- [](# 📌Heading)▶️##### 📌Heading 
+- [](# 📌Heading)▶️###### 📌Heading 
 
-Header
+Heading
 ```md
-[01HeaderAnchor](#📌header)
-# 📌Header
+[01HeadingAnchor](#📌Heading)
+# 📌Heading
 ```
 ```md
-[02HeaderAnchor](#📌header)
-## 📌Header
+[02HeadingAnchor](#📌Heading)
+## 📌Heading
 ```
 ```md
-[HeaderAnchor](#📌header)
-### 📌Header
+[HeadingAnchor](#📌Heading)
+### 📌Heading
 ```
 ```md
-[HeaderAnchor](#📌header)
-#### 📌Header
+[HeadingAnchor](#📌Heading)
+#### 📌Heading
 ```
 ```md
-[HeaderAnchor](#📌header)
-##### 📌Header
+[HeadingAnchor](#📌Heading)
+##### 📌Heading
 ```
 ```md
-[HeaderAnchor](#📌header)
-###### 📌Header
+[HeadingAnchor](#📌Heading)
+###### 📌Heading
 ```
 
 
-FirstHeader
+FirstHeading
 ```md
-[HeaderAnchor](#📌header)
-# 📌Header
-## 📌Header
-### 📌Header
-#### 📌Header
-##### 📌Header
-###### 📌Header
+[HeadingAnchor](#📌Heading)
+# 📌Heading
+## 📌Heading
+### 📌Heading
+#### 📌Heading
+##### 📌Heading
+###### 📌Heading
 ```
 - ⭕#▶️\#
 - ❌#▶️\##
@@ -108,6 +120,68 @@ FirstHeader
 - ❌#▶️\######
 
 
-
-
-
+## SameHeading
+```md
+[A](#a)👉# a
+```
+- ```md
+  [A](#a)👉# a
+  ```
+- ```md
+  [A](#a)👉# a
+  [A](#a)👉## a
+  [A](#a)👉### a
+  [A](#a)👉#### a
+  [A](#a)👉##### a
+  [A](#a)👉###### a
+  ```
+- ```md
+  [A](#A)👉# A
+  [A](#A)👉## A
+  [A](#A)👉### A
+  [A](#A)👉#### A
+  [A](#A)👉##### A
+  [A](#A)👉###### A
+  [A](#A)👉# a
+  [A](#A)👉## a
+  [A](#A)👉### a
+  [A](#A)👉#### a
+  [A](#A)👉##### a
+  [A](#A)👉###### a
+  [A](#A)👉# #A
+  [A](#A)👉## #A
+  [A](#A)👉### #A
+  [A](#A)👉#### #A
+  [A](#A)👉##### #A
+  [A](#A)👉###### #A
+  [A](#A)👉# #a
+  [A](#A)👉## #a
+  [A](#A)👉### #a
+  [A](#A)👉#### #a
+  [A](#A)👉##### #a
+  [A](#A)👉###### #a
+  [A](#a)👉# A
+  [A](#a)👉## A
+  [A](#a)👉### A
+  [A](#a)👉#### A
+  [A](#a)👉##### A
+  [A](#a)👉###### A
+  [A](#a)👉# a
+  [A](#a)👉## a
+  [A](#a)👉### a
+  [A](#a)👉#### a
+  [A](#a)👉##### a
+  [A](#a)👉###### a
+  [A](#a)👉# #A
+  [A](#a)👉## #A
+  [A](#a)👉### #A
+  [A](#a)👉#### #A
+  [A](#a)👉##### #A
+  [A](#a)👉###### #A
+  [A](#a)👉# #a
+  [A](#a)👉## #a
+  [A](#a)👉### #a
+  [A](#a)👉#### #a
+  [A](#a)👉##### #a
+  [A](#a)👉###### #a
+  ```
