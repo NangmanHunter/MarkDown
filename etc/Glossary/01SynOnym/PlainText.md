@@ -1,0 +1,15 @@
+- PlainText
+- Plain
+- plain
+- plaintext
+- plain-text
+- text
+- txt
+- .txt
+- 일반텍스트
+- 일반 텍스트
+- Text
+- ` ```plain `
+- ` ```Plain `
+- ` ```PlainText `
+- ` ```plaintext `

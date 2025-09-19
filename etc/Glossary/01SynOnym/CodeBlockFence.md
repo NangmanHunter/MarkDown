@@ -1,0 +1,64 @@
+- 코드블럭구성단위
+- 코드블럭단위
+- 구성단위
+- 구성요소
+- 단위
+- 요소단위
+- 코드블럭_코드블럭요소
+- 코드블럭_코드블럭구성
+- 코드블럭_코드블럭단위
+- 코드블럭_코드블럭펜스
+- 코드블럭_코드블럭백틱펜스
+- 코드블럭CodeBlock_코드블럭백틱펜스CodeBlockBackTickFence
+- 코드블럭CodeBlock_코드블럭펜스CodeBlockFence
+- CodeBlock_CodeBlockFence
+- CodeBlockFence
+- CodeBlock_CodeBlockBackTickFence
+- CodeBlockBackTickFence
+- Unit
+- 코드블럭Unit
+- 코드블럭구성Unit
+- 코드블럭구성요소
+- 코드블럭요소
+- \```👉이 구문은 코드 블록(fenced code block)을 여닫는 데 쓰입니다.
+- \```👉공식 명칭은 fence(펜스)
+- fence(펜스)
+- Fence(펜스)
+- Fence
+- Fence=```
+- Fence=` ``` `
+- 펜스
+- backtick fence
+- backtick
+- Backtick Fence
+- Backtick
+- BackTick Fence
+- BacktickFence
+- BackTickFence
+- BackTick
+- code fences
+- \```👉backtick fence (백틱 펜스)
+- \```👉펜스(fence)
+- \```👉백틱 fence
+- \`\`\`
+- ` ``` ` 
+- \```
+- \`\`\`
+- \`\``
+- \````
+- \`````  
+- \````` ...
+- 📌표현▶️Fence<<CodeBlockFence
+- 📌표현▶️단위성-Fence<<CodeBlockFence
+- 📌표현▶️구성성-Fence<<CodeBlockFence
+- 📌표현▶️구성성👉Fence<<CodeBlockFence
+- 📌표현▶️구성성-A<<BA👉Fence<<CodeBlockFence
+- 📌표현▶️연계성-Fence<<CodeBlockFence
+- 📌표현▶️최소단위성-Fence<<CodeBlockFence
+- 📌표현▶️최소단위-Fence<<CodeBlockFence
+- 📌표현▶️기준단위-Fence<<CodeBlock
+- 📌표현▶️기준단위-Fence<<CodeBlock👉Fence<<CodeBlockFence
+- 📌표현▶️단위-Fence<<CodeBlock
+- 📌표현▶️Fence>>BackTickFence
+- 📌표현▶️경량성-Fence>>BackTickFence
+- 📌표현▶️경제성-Fence>>BackTickFence

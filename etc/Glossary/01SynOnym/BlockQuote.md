@@ -1,0 +1,34 @@
+- BlockQuote
+- BlockQuote->
+- BlockQuote-`>`
+- Blockquote (인용문)
+- Blockquote
+- 인용문
+- `>` 기호는 Blockquote (인용문) 을 나타내는 기호
+- `>` 는 인용문을 시작하는 기호(quote marker)
+- \<blockquote></blockquote>
+- `<blockquote></blockquote>`
+- SingleBlockQuote👉First line
+- SingleBlockQuote👉First Line
+- SingleBlockQuote👉FirstLine
+- SingleBlockQuote👉First line BlockQuote
+- SingleBlockQuote👉One line
+- SingleBlockQuote👉One line BlockQuote
+- SingleBlockQuote👉One Line BlockQuote
+- SingleBlockQuote👉One Line
+- SingleBlockQuote👉OneLine
+- SingleBlockQuote👉Single Line BlockQuote
+- SingleBlockQuote👉Single Line
+- SingleBlockQuote👉SingleLine
+- SingleBlockQuote👉Single BlockQuote
+- SingleBlockQuote👉SingleBlockQuote
+- SingleBlockQuote
+- 바깥 인용
+- 바깥 인용문
+- 바깥인용
+- 바깥인용문
+- blockquote
+- block-quote
+- Block-quote
+- Block-Quote
+- QuoteBlock

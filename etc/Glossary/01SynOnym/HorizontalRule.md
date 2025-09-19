@@ -1,0 +1,26 @@
+- \<hr>: The Thematic Break (Horizontal Rule) element
+- Thematic Break (Horizontal Rule) element
+- Thematic Break element
+- Horizontal Rule
+- HorizontalRule
+- HR
+- Hr
+- Thematic Break Element
+- Thematic Break
+- ThematicBreak
+- `<hr>`
+- hr
+- 수평선
+- 직선
+- 선
+- Line
+- [MDN_hr](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/hr)
+- Rule
+- 수평자
+- 가로선
+- HorizontalLine
+- Horizontal Line
+- Rule👉자
+- Rule👉눈금자
+- 줄
+- 줄선

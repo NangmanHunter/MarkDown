@@ -1,0 +1,44 @@
+- CodeBlock
+- CodeBlock_Fence
+- CodeBlock_CodeBlockFence
+- CodeBlock▶️Fence
+- CodeBlock_BackTickFence
+- BackTickFence👉CodeBlock
+- Fence👉CodeBlock
+- Fence👉FenceCodeBlock
+- Fence👉FencedCodeBlock
+- CodeBlock▶️BackTickFence
+- CodeBlock-Fence
+- CodeBlock=CodePre
+- CodeBlock=CodePre=PreCode
+- CodeBlock=PreCode
+- Code Block
+- Code-Block
+- Code-Pre
+- 코드블록
+- code
+- \<code>
+- \<code></code>
+- pre>code
+- pre > code
+- \<pre>\<code>
+- \<pre>\<code></code></pre>
+- `<pre><code></code></pre>`
+- `<pre><code> </code></pre>`
+- fenced code block (코드 블록)
+- pre-code
+- PreCode
+- Pre-Code
+- Code
+- fenced code block
+- Fenced Code Block
+- Fenced CodeBlock
+- FencedCodeBlock
+- FenceCodeBlock
+- 코드 블록(fenced code block)
+- code fences
+- CodePre
+- code block
+- code-block
+- [MDN_CodeBlock](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Code_style_guide)
+- 감싼 전체 → fenced code block (코드 블럭)

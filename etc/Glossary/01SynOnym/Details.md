@@ -1,0 +1,8 @@
+- Details
+- Detail
+- details
+- `<details>`
+- \<details>
+- \<details>\</details>
+- `<details></details>`
+- detail

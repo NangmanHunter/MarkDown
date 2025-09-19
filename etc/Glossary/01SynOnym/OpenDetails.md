@@ -1,0 +1,3 @@
+- OpenDetails
+- details-open
+- `<details open>`

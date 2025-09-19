@@ -1,0 +1,12 @@
+- 언어 식별자(language identifier)
+- 언어 식별자
+- 언어식별자
+- language identifier
+- Language Identifier
+- LanguageIdentifier
+- LanguageIDentifier
+- LanguageID
+- Ex. \```js
+- Ex. \```md
+- syntax highlighting language identifier (구문 강조 언어 식별자)
+- 뒤에 붙는 `js`, `python`, `md` 같은 것 → language identifier

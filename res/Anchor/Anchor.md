@@ -120,7 +120,7 @@ FirstHeading
 - ❌#▶️\######
 
 
-## SameHeading
+## SameHeadingAnchor
 ```md
 [A](#a)👉# a
 ```

@@ -1,0 +1,17 @@
+- SynTax
+- Syntax
+- Syntax생략
+- Syntax생략
+- 공백
+- Syntax생략
+- (ㆍ)
+- Syntax생략
+- ""
+- Syntax생략
+- " "
+- syntax
+- ✅syntax
+- 구문
+- 어법
+- 어문
+- ✅Syntax

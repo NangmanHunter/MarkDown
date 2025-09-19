@@ -1,0 +1,33 @@
+- ＃＃＃＃＃＃
+- \######
+- h6
+- \<h6>
+- \<h6>\</h6>
+- h
+- H6
+- Heading
+- SixthHeading
+- Heading-06
+- Heading-6
+- `###### Heading-6`
+- heading
+- heading-06
+- heading-6
+- heading6
+- Heading6
+- heading06
+- Heading06
+- 6heading
+- 6Heading
+- 06heading
+- 06Heading
+- Heading level 6
+- Heading Level 6
+- Level 6 Heading
+- 6 Level Heading
+- 6LevelHeading
+- 6레벨헤딩
+- SixthLevelHeading
+- SixthLvHeading
+- SixLevelHeading
+- SixLvHeading
