@@ -24,12 +24,37 @@
 - Heading level 2
 - Heading Level 2
 - Level 2 Heading
+- Level2Heading
+- Lv2Heading
+- Lv2.Heading
 - 2 Level Heading
 - 2LevelHeading
 - TwoLevelHeading
 - TwoLvHeading
 - SecondLevelHeading
+- ✅SecondLevelHeading
 - SecondLvHeading
 - 투레벨헤딩
+- 2번째레벨헤딩
+- 두번째레벨헤딩
 - 이레벨헤딩
 - 2레벨헤딩
+- 가장 권장되는 표현은 “level 2 heading” 또는 “second-level heading”
+- “level 2 heading (##)”
+- “level 2 heading (`##`)”
+- 📌표현▶️❌SecondHeading
+- 📌표현▶️SecondLevelHeading>>TwoLevelHeading
+- 📌표현▶️TwoLevelHeading<<SecondLevelHeading
+- 📌표현▶️two-level heading → 어색합니다. 보통 이렇게는 잘 안 쓰고, “level 2 heading”이 맞습니다.
+- 📌표현▶️second heading → 그냥 “두 번째 제목”이라는 뜻이 돼서, 구조상 레벨을 지칭하기에는 모호합니다. 예를 들어 문서의 두 번째 제목이라는 의미로 오해될 수 있어요.
+- 📌표현▶️second-level heading → 가장 표준적이고 문서화·기술 문서에서 많이 쓰임.
+- 📌표현▶️second-level heading → “2번째 레벨의 제목”이라는 의미가 명확함.
+- 📌기준▶️Lv1.Heading << Lv2.Heading >> Lv3.Heading >> Lv4.Heading >> Lv5.Heading >> Lv6.Heading
+- 📌기준▶️Lv1 << Lv2 >> Lv3 >> Lv4 >> Lv5 >> Lv6
+- 📌최빈도기준▶️Lv1 << Lv2 >> Lv3 >> Lv4 >> Lv5 >> Lv6
+- 📌최빈기준▶️Lv1 << Lv2 >> Lv3 >> Lv4 >> Lv5 >> Lv6
+- 📌최상위기준▶️Lv1 >> Lv2 >> Lv3 >> Lv4 >> Lv5 >> Lv6
+- 📌최상기준▶️Lv1 >> Lv2 >> Lv3 >> Lv4 >> Lv5 >> Lv6
+- 📌기준▶️Lv1.Heading<<Lv2.Heading>>Lv3.Heading>>Lv4.Heading>>Lv5.Heading>>Lv6.Heading
+- 📌기준▶️`Lv1`<<`Lv2`>>`Lv3`>>`Lv4`>>`Lv5`>>`Lv6`
+- 📌기준▶️`Lv1.Heading`<<`Lv2.Heading`>>`Lv3.Heading`>>`Lv4.Heading`>>`Lv5.Heading`>>`Lv6.Heading`

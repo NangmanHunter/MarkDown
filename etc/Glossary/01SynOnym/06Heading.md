@@ -27,6 +27,7 @@
 - 6 Level Heading
 - 6LevelHeading
 - 6레벨헤딩
+- 육레벨헤딩
 - SixthLevelHeading
 - SixthLvHeading
 - SixLevelHeading
