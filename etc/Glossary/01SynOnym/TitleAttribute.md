@@ -1,0 +1,25 @@
+- TitleAttribute
+- Title`Attribute`
+- `Title`Attribute
+- Title
+- Title속성
+- Image_Title속성
+- Image_TitleAttribute
+- ImageTitleAttribute
+- ImgTitleAttribute
+- ImgTitle속성
+- ImageTitle속성
+- 이미지의 title 속성 (마우스를 올리면 툴팁으로 뜨는 글자)
+- 툴팁(tooltip)
+- tooltip
+- ToolTip
+- ToolTipText
+- 사용자 인터페이스에서 마우스 포인터를 특정 요소(아이콘, 버튼, 텍스트 등)에 올렸을 때, 그 요소에 대한 보충 설명이나 힌트를 보여주는 작은 - 텍스트 상자
+- 말풍선 또는 툴팁(tooltip)
+- alt_txt → 이미지 위에 마우스를 올렸을 때 풍선 도움말처럼 뜨는 글자(title).
+- "alt_txt"
+- Ex. `[image]: /full/path/to/image/file.jpg "alt_txt"`
+- title text (큰따옴표 안) →
+- 정식 명칭: Title attribute (Title text)
+- HTML 대응: `<img title="title text">`
+- 역할: 마우스를 올렸을 때 툴팁으로 뜨는 텍스트.

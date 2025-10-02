@@ -1,0 +1,18 @@
+- AlternateText
+- AlterText
+- AlternateText👉이미지가 표시되지 않을 때 대신 보이는 텍스트 (대체 텍스트, accessibility용)
+- [alt text]
+- alt text
+- AltText
+- Alt Text
+- alt text → 이미지 깨졌을 때 대신 보이는 글자.
+- Ex.`![alt text][image]`
+- alt text →
+- 정식 명칭: Alt text (Alternative text, 대체 텍스트)
+- HTML 대응: `<img alt="alt text">`
+- 역할: 이미지가 로드되지 않을 때 표시되거나, 스크린 리더에서 접근성용으로 읽어줌.
+- Alt속성
+- AltAttribute
+- `Alt`Attribute
+- Alt`Attribute`
+- Alt

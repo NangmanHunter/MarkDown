@@ -1,3 +1,23 @@
 - OpenDetails
 - details-open
 - `<details open>`
+- DetailsㆍOpen>>Closed
+- 닫혀있으면ㅡ있는지모름.
+- 디폴트처럼
+- 값넣어주는게먼저인것처럼.
+- 데이터ㆍ값알려주는게먼저.
+- Open>>Closed
+- Open
+- 깔끔성ㅡOpen<<Closed
+- 직감성ㅡOpen>>Closed
+- 접근성ㅡOpen>>Closed
+- 재접근성ㅡOpen>>Closed
+- 재접근성ㅡ취소버튼다시와서ㅡOpen>>Closed
+- 바로접근성ㅡOpen>>Closed
+- 바로최적성ㅡOpen>>Closed
+- 사용최적성ㅡOpen>>Closed
+- 활용최적성ㅡOpen>>Closed
+- 유용최적성ㅡOpen>>Closed
+- DetailsOpen
+- OpenAttributeDetails
+- DetailsOpenAttribute

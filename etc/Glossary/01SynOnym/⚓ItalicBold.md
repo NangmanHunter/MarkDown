@@ -1,0 +1,45 @@
+- ItalicBold
+- `ItalicBold`
+- BoldItalic
+- Italic👉Bold👉BoldItalic
+- Italic👉Bold👉ItalicBold
+- Bold and Italic
+- 📌표현▶️추상구상-BoldItalic>>ItalicBold
+- 📌표현▶️공간적-BoldItalic>>ItalicBold
+- 📌표현▶️Bold인접성-BoldItalic<<ItalicBold
+- 📌표현▶️구상추상-BoldItalic<<ItalicBold
+- 📌표현▶️Particle적-구상추상-BoldItalic<<ItalicBold
+- 📌표현▶️시간적-BoldItalic<<ItalicBold
+- 📌표현▶️통상적-추상구상>>구상추상-파티클적-추상구상<<구상추상-BoldItalic<<ItalicBold
+- 📌표현▶️대단위적-추상구상>>구상추상-소단위적-추상구상<<구상추상-BoldItalic<<ItalicBold
+- 📌표현▶️폰트-파티클적-추상구상<<구상추상-BoldItalic<<ItalicBold
+- Bold + Italic 또는 Emphasized Strong
+- Bold + Italic 조합도 공식 명칭은 Bold + Italic
+- Bold + Italic
+- 📌표현▶️정하기-`BoldItalic`vs.`ItalicBold`
+- 📌표현▶️Bold(기존) + Italic(더함)
+- 📌표현▶️Bold(추상) + Italic(구상)
+- 📌표현▶️ItalicBold(구상추상)
+- 📌표현▶️Bold+Italic
+- 📌표현▶️Bold-Italic
+- 📌표현▶️Bold-ItalicBold
+- 📌표현▶️ItalicBold
+- 📌표현▶️✅ItalicBold
+- 📌표현▶️`_** **_`
+- 📌표현▶️✅`_** **_`
+- 📌표현▶️Default-`_** **_`
+- 📌표현▶️Default-`_** **_`-Bold+Italic
+- 📌표현▶️Default-`_** **_`-ItalicBold
+- Bold+Italic
+- Bold and Italic
+- [Bold and Italic](https://www.markdownguide.org/basic-syntax/#bold-and-italic)
+- ✅`_** **_`
+- `_**A**_`
+- `_** **_`
+- `___A___`
+- `_****_`
+- `***A***`
+- `*****A*****`
+- `*******A*******`
+- `*********A*********`
+- `***********A***********`
