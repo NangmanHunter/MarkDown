@@ -1,5 +1,43 @@
 
-# Ancor
+
+## Anchor
+```md
+[]()
+```
+<details open>
+    <summary></summary>
+
+```md
+<>
+```
+```md
+[]()
+```
+```md
+[](https://)
+```
+```md
+[🔴](🔵)
+```
+```md
+[🔴](https://🔵)
+```
+```md
+<a href=""></a>
+```
+```md
+<a href="https://"></a>
+```
+```md
+<a href="🔵">🔴</a>
+```
+```md
+<a href="https://🔵">🔴</a>
+```
+</details>
+
+
+
 ## AnchorSyntax
 LowerLetter
 - ⭕(a)
@@ -19,10 +57,13 @@ Space
 - ❌" "
   - ❌(# a a )▶️# a a
 
+
 ## InnerAnchor
 - InnerAnchor
 - InnerHeading
 - Heading
+- HeadingAnchor
+
 
 InnerHeading
 ```md

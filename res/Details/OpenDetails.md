@@ -20,5 +20,4 @@
 
   📌Content
 </details>
-
 ```

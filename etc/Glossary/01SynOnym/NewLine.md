@@ -1,0 +1,25 @@
+- A newline (frequently called line ending, end of line (EOL), next line (NEL) or line break) is a control character (newline character) or sequence of control characters in character encoding specifications such as ASCII, EBCDIC, Unicode, etc.
+- Newline
+- Newline문자
+- NewLine
+- NewLine문자
+- 개행문자
+- NewLine=NewㆍLine
+- NewLine=신ㆍ줄
+- NewLine=갱신ㆍ줄행
+- NewLine=갱신ㆍ행
+- NewLine=갱ㆍ행
+- NewLine=열개ㆍ행
+- NewLine=개ㆍ행
+- NewLine=개행
+- NewLine=개행문자
+- 줄바꿈
+- 줄바꿈문자
+- 줄공백
+- 공백
+- LineSpace
+- newline
+- line ending
+- end of line (EOL)
+- next line (NEL)
+- line break
