@@ -1,0 +1,5 @@
+- Hidden
+- 숨김
+- hidden
+- 👻
+- DisplayNone
