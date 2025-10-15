@@ -144,4 +144,63 @@
 
 </details>
 ````
+
+
+`Text`
+````md
+Target
+```
+
+```
+> ```ps1
+> 
+> ```
+<details open>
+    <summary></summary>
+
+
+</details>
+````
+````md
+Output
+```
+
+```
+> ```ps1
+> 
+> ```
+<details open>
+    <summary></summary>
+
+
+</details>
+````
+````md
+출력
+```
+
+```
+> ```ps1
+> 
+> ```
+<details open>
+    <summary></summary>
+
+
+</details>
+````
+````md
+출력형태
+```
+
+```
+> ```ps1
+> 
+> ```
+<details open>
+    <summary></summary>
+
+
+</details>
+````
 </details>
