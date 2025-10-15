@@ -1,0 +1,8 @@
+- Tip
+- TipAlertBox
+- Tip`AlertBox`
+- 도움이 되는 조언, 권장사항
+- 친절하고 실용적인 조언 느낌
+- 코드 최적화 방법, 효율적 사용법 제안
+- 💡 (light bulb)
+- tip

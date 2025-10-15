@@ -13,9 +13,14 @@
 - 05AlertBox
 - [MS▶️AlertBox](https://learn.microsoft.com/en-us/contribute/content/markdown-reference#alerts-note-tip-important-caution-warning)
 - [MS▶️MarkDown](https://learn.microsoft.com/en-us/contribute/content/markdown-reference)
-- >[!]AlertBox
-- >[!AlertBox]
-- >[]AlertBox
-- []AlertBox
-- >AlertBox
-- !AlertBox
+- `> [!AlertBox]`=`>[!]AlertBox`
+- `> [!AlertBox]`=`>[!AlertBox]`
+- `> [!AlertBox]`
+- `> [!AlertBox]`▶️`> [!CAUTION]`ㆍ`> [!IMPORTANT]`ㆍ`> [!TIP]`ㆍ`> [!NOTE]`ㆍ`> [!WARNING]`
+- `> [!AlertBox]`▶️`> [!Caution]`ㆍ`> [!Important]`ㆍ`> [!Tip]`ㆍ`> [!Note]`ㆍ`> [!Warning]`
+- `> [!AlertBox]`=`>[]AlertBox`
+- `> [!AlertBox]`=`[]AlertBox`
+- `> [!AlertBox]`=`>AlertBox`
+- `> [!AlertBox]`=`!AlertBox`
+- `> [!AlertBox]`=`AlertBox`
+

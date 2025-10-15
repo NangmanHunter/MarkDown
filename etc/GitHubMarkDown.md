@@ -1,0 +1,2 @@
+- https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+- https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file

@@ -1,0 +1,12 @@
+- NoteAlertBox
+- Note`AlertBox`
+- Note
+- AlertBox-NoteAlertBox
+- AlertBox-Note
+- 📌Glossary▶️`AlertBox-Note`-하위관계>>구성관계
+- Note▶️Note
+- Note▶️note = 정보성 안내
+- Note▶️단순한 참고사항, 부가설명
+- Note▶️중립적, 정보 전달 중심
+- Note▶️API 제한 설명, 예외 케이스 언급
+- Note▶️ℹ️ (info)
