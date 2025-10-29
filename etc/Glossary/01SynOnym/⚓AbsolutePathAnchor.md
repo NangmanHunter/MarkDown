@@ -1,0 +1,38 @@
+- AbsolutePathAnchor
+- AbsolutePath
+- LocalResource
+- LocalResourcePath
+- LocalPath
+- <file:\\>
+- <file:\\C:\Users\사용자이름\Documents>
+- <file:\\C:\Users\djwlf\Documents>
+- ❌(file:\\C:\Users\djwlf\Documents)
+- [](file:\\C:\Users\djwlf\Documents)
+- [Anchor](file:\\C:\Users\djwlf\Documents)
+- [AbsoluteAnchor](file:\\C:\Users\djwlf\Documents)
+- [AbsolutePathAnchor](file:\\C:\Users\djwlf\Documents)
+- [DummyAnchor](file:\\C:\Users\djwlf\Documents)
+- [Dummy](file:\\C:\Users\djwlf\Documents)
+- <file:\\C:\Users\djwlf\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1> + `Alt+Click`
+- ✅<file:\\C:\Users\djwlf\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1> + `Alt+Click`
+- <file:\\C:\Users\djwlf\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1> + ✅`Alt+Click`
+- <file:\\C:\Users\djwlf\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1> + ❌`Rendering`+`Alt+Click`
+- ❌<file:\\C:\Users\djwlf\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1> + `Rendering`+`Alt+Click`
+- [test](file:\\C:\Users\djwlf\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1) + `Alt+Click`
+- `<file:\\ >`
+- `<file:\\>`
+- `<file>`
+- `file`
+- `<>`
+- ✅`<file>`
+- ✅`file`
+- ✅`<>`
+- ✅`<file:\\ >`
+- ✅`<file:\\ ... \ >`
+- ✅`<\>`
+- ✅`\`
+- ❌`<file:// >`
+- ❌`<file:// ... />`
+- ❌`</>`
+- ❌`/`
+- ✅`file:\\`

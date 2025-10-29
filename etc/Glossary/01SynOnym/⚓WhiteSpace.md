@@ -16,3 +16,11 @@
 - 공백=WhiteSpace
 - [Wiki_WhiteSpaceCharacter](https://en.wikipedia.org/wiki/Whitespace_character)
 - [Wiki_WhiteSpace](https://en.wikipedia.org/wiki/Whitespace_(programming_language))
+- 눈에 보이는 띄어쓰기
+- 공백(space)
+- Ex.' '
+- 부분집합
+- 일반 언어, 문서 편집
+- whitespace → “공백(white space)”
+- whitespace — “눈에 안 보이는 구분용 문자 전체” (줄바꿈 등 포함)
+
