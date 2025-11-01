@@ -1,0 +1,3 @@
+- CheckBox
+- VSCode, GitHub, Notion 등 대부분 마크다운 확장 환경에서 사용 가능
+- 표준 마크다운 확장은 아니지만 흔히 쓰이는 “GitHub Flavored Markdown (GFM)” 문법이에요.
